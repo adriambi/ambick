@@ -10,6 +10,6 @@ python, requests, bs3, selenium
 draft work, all needed data was scraped, quit improving
 
 worki.py is a script on selenium
-it sortes applications at "worki.ru" website using, writes candidates, changes statuses and writes suitable candidates via WhatsApp
+it sortes applications at "worki.ru" website, writes candidates, changes statuses and writes suitable candidates via WhatsApp
 it has made some of my work much easier
 
